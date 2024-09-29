@@ -233,7 +233,7 @@ body{
 
   .footer {
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.5rem; 
     padding: 1rem;
   }
 
